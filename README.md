@@ -1,2 +1,2 @@
 # .github
-my default community health files
+These are my default community health files for Fred's organization on GitHub.
